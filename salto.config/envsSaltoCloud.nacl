@@ -1,0 +1,8 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "6de79a61-c8c0-4681-a916-88fdefe02ee7"
+      folderName = "Salesforce 2"
+    },
+  ]
+}
